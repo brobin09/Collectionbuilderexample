@@ -38,13 +38,13 @@ author: CollectionBuilder
 metadata: demo-metadata
 
 ##########
-# Site/Organization Branding 
+Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "NCCU department of history Static Exhbits and Archives"
+organization-link: https://www.nccu.edu
+organization-logo-banner: https://nccu.photoshelter.com/galleries/C0000FP9Ksifpr00/G0000TcJyHKokmHo/I00009Iv9bp2q9S4/NCCU-horz-4-PMS-C-logo
+organization-logo-nav: https://nccu.photoshelter.com/galleries/C0000FP9Ksifpr00/G0000387nDFcmCyI/I0000bTm0qYvN10I/NCCU-horz-4-PMS-C-logo
 
 
 
